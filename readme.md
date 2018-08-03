@@ -1,4 +1,5 @@
-# Get Help Osage [![Build Status](https://travis-ci.org/Osage-Nation/GetHelpOsage.svg)](https://travis-ci.org/Osage-Nation/GetHelpOsage) [![Stories in Ready](https://badge.waffle.io/Osage-Nation/GetHelpOsage.svg?label=ready&title=Ready)](https://waffle.io/Osage-Nation/GetHelpOsage)
+# Get Help Osage [![Build Status](https://travis-ci.org/Osage-Nation/GetHelpOsage.svg)](https://travis-ci.org/Osage-Nation/GetHelpOsage) [![Waffle.io - Columns and their card count](https://badge.waffle.io/Osage-Nation/GetHelpOsage.svg?columns=all)](https://waffle.io/Osage-Nation/GetHelpOsage)
+
 
 ## History
 The project is based on Code for Lexington's GetHelpLex, which in turn is based on Code for Boston's [finda](https://github.com/codeforboston/finda) project. 
