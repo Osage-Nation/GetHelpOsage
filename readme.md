@@ -7,8 +7,8 @@ Osage Nation customized it with:
 * WIP
 
 Lexington customized it with:
- * The facilities [are read](https://github.com/openlexington/gethelplex/blob/gh-pages/src/data/geojson.js#L10) from a Google spreadsheet using the [Tabletop.js](https://github.com/jsoma/tabletop) library. This way our stakeholders have realtime ability to update facilities.
- * We hacked the [facet handling](https://github.com/openlexington/gethelplex/blob/gh-pages/src/ui/facet.js) to guide the user through a 'survey'. It narrows down the facilities based on type of treatment, the insurance they accept, etc.
+ * The facilities [are read](https://github.com/Osage-Nation/GetHelpOsage/blob/gh-pages/src/data/geojson.js#L10) from a Google spreadsheet using the [Tabletop.js](https://github.com/jsoma/tabletop) library. This way our stakeholders have realtime ability to update facilities.
+ * We hacked the [facet handling](https://github.com/Osage-Nation/GetHelpOsage/blob/gh-pages/src/ui/facet.js) to guide the user through a 'survey'. It narrows down the facilities based on type of treatment, the insurance they accept, etc.
  
 ## I want to help
 Great, thank you for wanting to help with our project. Below we have categorized some of the various ways you can get started with assisting. **At this time we are actively looking for assistance with mapping out facilities in Osage, Kaw, Pawnee, Washington, and Tulsa Counties in Oklahoma.** 
